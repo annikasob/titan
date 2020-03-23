@@ -1,0 +1,2 @@
+1. Put the tet Folder in > %AppData% > Roaming
+2. Start you GTA to Story Modus and open the Injector with Admin Rights
